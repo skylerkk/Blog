@@ -89,7 +89,7 @@ h2, h3{
 
 /* Main blog font */
 
-p{
+.blogpost-text{
     font-size: 1.4em;
     font-family: Trillium Web;
 }
