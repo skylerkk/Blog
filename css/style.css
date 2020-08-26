@@ -83,7 +83,7 @@
 
 /* header font for blog list */
 
-h2{
+h2, h4{
     font-family:Ubuntu;
 }
 
@@ -91,6 +91,7 @@ h2{
 
 p{
     font-family: Trillium Web;
+    font-size: 1.4em;
 }
 
 .blogpost-layout{
