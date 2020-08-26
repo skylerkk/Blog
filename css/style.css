@@ -1,0 +1,103 @@
+/* Navbar and Picture */
+#title{
+    /*
+    background-color: #A4CEE7;
+    */
+    background-color: #A1CAE3;
+}
+
+.sizing-nav{
+    padding: 2% 10%;
+}
+
+.navbar{
+    font-size: 1.8rem;
+    font-family: Montserrat;
+}
+
+.navbar .navbar-brand{
+    font-size: 2.6rem;
+    font-family: Ubuntu;
+}
+
+.container-fluid img{
+    margin-left: auto;
+    margin-right: auto;
+    height: 90%;
+    width: 90%;
+    display: block;
+}
+
+/* Blog cards home page */
+
+#blog{
+    padding: 5% 15% 5% 26%;
+    background-color:#E1E1E1;
+}
+
+.card{
+   margin-right: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px
+}
+
+.card-title{
+    font-family: Ubuntu;
+}
+
+.card-text{
+    font-family: Montserrat;
+}
+
+/* footer and icons home page */
+#footer{
+    padding:1% 15%;
+    background-color:#505050;
+    text-align: center;
+}
+
+.social-icons{
+    margin: 20px;
+}
+
+.social-icons a:link .fa, .social-icons a:visited .fa {
+    color: black;
+}
+
+.social-icons:hover{
+    color:lightgrey;
+}
+
+.blog-header{
+    padding: 2% 10%;
+}
+
+/* Blog list settings */
+
+.blog-list{
+    padding: 1% 12%;
+    font-family:Montserrat;
+    list-style-type: none;
+}
+
+/* header font for blog list */
+
+h2{
+    font-family:Ubuntu;
+}
+
+/* Main blog font */
+
+p{
+    font-family: Trillium Web;
+}
+
+.blogpost-layout{
+    padding: 3% 20%;
+    text-align: center;
+}
+
+.blogpost-layout p{
+    padding: 5% 10%;
+}

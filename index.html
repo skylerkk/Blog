@@ -1,11 +1,59 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
+
+<title>Blog Home</title>    
+<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/7b8a3cca5b.js" crossorigin="anonymous"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Titillium+Web:wght@300&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+
 </head>
 <body>
+<section id="title">
+    <div class = "sizing-nav">
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand">Skyler's Blog</a>
+        <div class= "collapse navbar-collapse">
+            <ul class = "navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class = "nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./html/bloglist.html">Blog List</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    </div>
+    <div class = "container-fluid">
+        <img class = "full-width-image" src="img/Skylers-Blog-Header-V2.png">
+    </div>
+</section>
 
+<div id="blog">
+    <div class="container-fluid">
+        <div class="row">
+            <div class = "card col-lg-3 bg-light align-items-stretch">
+                <div class = "card-body">
+                    <h5 class= "card-title"> August 28, 2020 </h5>
+                    <p class="card-text"> First blog post for the Awesome Inc. bootcamp</p>
+                    <a href="./html/blogpost/august-28-2020.html" class="btn btn-primary">Go to</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div id="footer">
+    <a href="https://github.com/skylerkk">
+        <i class="social-icons fab fa-github fa-3x"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/skyler-kuretza-768362156/">
+        <i class="social-icons fab fa-linkedin fa-3x"></i>
+    </a>
+</div>
 
 </body>
 </html>
