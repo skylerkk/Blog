@@ -1,8 +1,5 @@
 /* Navbar and Picture */
 #title{
-    /*
-    background-color: #A4CEE7;
-    */
     background-color: #A1CAE3;
 }
 
@@ -83,15 +80,15 @@
 
 /* header font for blog list */
 
-h2, h4{
+h2, h3{
     font-family:Ubuntu;
 }
 
 /* Main blog font */
 
-p{
-    font-family: Trillium Web;
+.blogpost-text{
     font-size: 1.4em;
+    font-family: Titillium Web;
 }
 
 .blogpost-layout{
