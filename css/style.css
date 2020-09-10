@@ -3,11 +3,8 @@
     background-color: #A1CAE3;
 }
 
-.sizing-nav{
-    padding: 2% 10%;
-}
 
-.navbar{
+.navbar .nav-link{
     font-size: 1.8rem;
     font-family: Montserrat;
 }
@@ -23,6 +20,10 @@
     height: 90%;
     width: 90%;
     display: block;
+}
+
+.container-fluid nav{
+    padding: 2% 10%;
 }
 
 /* Blog cards home page */
