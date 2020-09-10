@@ -28,7 +28,7 @@
 /* Blog cards home page */
 
 #blog{
-    padding: 5% 15% 5% 26%;
+    padding: 5% 15% 1% 26%;
     background-color:#E1E1E1;
 }
 
@@ -51,7 +51,9 @@
 #footer{
     padding:1% 15%;
     background-color:#505050;
-    text-align: center;
+    position: relative;
+    height: 100px;
+    clear: both;
 }
 
 .social-icons{
@@ -98,4 +100,9 @@ h2, h3{
 
 .blogpost-layout p{
     padding: 5% 10%;
+}
+
+#bloglist {
+    padding:  1% 35%;
+    background-color:#E1E1E1;
 }
