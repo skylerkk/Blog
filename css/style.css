@@ -49,7 +49,7 @@
 }
 
 /* footer and icons home page */
-#footer{
+footer{
     padding:1% 15%;
     background-color:#505050;
     position: relative;
@@ -83,7 +83,7 @@
 
 /* header font for blog list */
 
-h2, h3{
+h2, h3, h4{
     font-family:Ubuntu;
 }
 
@@ -104,6 +104,54 @@ h2, h3{
 }
 
 #bloglist {
-    padding:  1% 35%;
+    padding:  2% 35% 5%;
     background-color:#E1E1E1;
+}
+
+.aboutImage {
+    width: 30%;
+    height: 40%;
+    float: left;
+    margin-right: 30px;
+}
+
+.aboutSection {
+    padding: 3% 10% 3% 10%;
+}
+
+.divider {
+    padding: 2%;
+    clear: both;
+}
+
+.aboutSection p{
+    font-size: 1.4em;
+    font-family: Titillium Web;
+}
+
+.aboutSection ul{
+    list-style-type: none;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.aboutSection li{
+    display: inline;
+    padding: 2%;
+}
+
+.aboutSection h4{
+    text-align: center;
+}
+
+.projects .container{
+    padding-top: 6%;
+}
+
+.projects h2{
+    text-align: center;
+}
+
+.projects .card{
+    height: 400px;
 }
