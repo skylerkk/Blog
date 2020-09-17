@@ -61,7 +61,7 @@ footer{
     margin: 20px;
 }
 
-.social-icons a:link .fa, .social-icons a:visited .fa {
+i{
     color: black;
 }
 
@@ -155,4 +155,8 @@ h2, h3, h4{
 
 .projects .card{
     height: 400px;
+}
+
+.projects .row{
+    padding-top: 3%;
 }
