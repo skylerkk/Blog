@@ -61,7 +61,7 @@ footer{
     margin: 20px;
 }
 
-i{
+.social-icons:link, .social-icons:visited{
     color: black;
 }
 
