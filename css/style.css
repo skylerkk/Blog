@@ -2,18 +2,14 @@
 #title{
     background-color: #A1CAE3;
 }
-
-
 .navbar .nav-link{
     font-size: 1.8rem;
     font-family: Montserrat;
 }
-
 .navbar .navbar-brand{
     font-size: 2.6rem;
     font-family: Ubuntu;
 }
-
 b {
     font-family: 'Titillium Web', sans-serif;
 }
@@ -24,142 +20,86 @@ b {
     width: 90%;
     display: block;
 }
-
 .container-fluid nav{
     padding: 2% 10%;
 }
-
 /* Blog cards home page */
-
 #blog{
-    padding: 5% 15% 1% 26%;
+    padding: 5% 15% 2% 15%;
     background-color:#E1E1E1;
 }
-
-.card{
-   margin-right: 10px;
-   margin-left: 10px;
-   margin-bottom: 10px;
-   margin-top: 10px
-}
-
 .card-title{
     font-family: Ubuntu;
 }
-
 .card-text{
     font-family: Montserrat;
 }
-
 /* footer and icons home page */
 footer{
     padding:1% 15%;
     background-color:#505050;
     position: relative;
-    height: 150px;
+    height: 200px;
     clear: both;
 }
-
-.social-icons{
-    margin: 20px;
-}
-
-.social-icons:link, .social-icons:visited{
-    color: black;
-}
-
 .social-icons:hover{
     color:lightgrey;
 }
-
 .blog-header{
     padding: 2% 10%;
 }
-
 /* Blog list settings */
-
 .blog-list{
     padding: 1% 12%;
     font-family:Montserrat;
     list-style-type: none;
 }
-
 /* header font for blog list */
-
 h2, h3, h4{
     font-family:Ubuntu;
 }
-
 /* Main blog font */
-
 .blogpost-text{
     font-size: 1.4em;
     font-family: Titillium Web;
 }
-
 .blogpost-layout{
     padding: 3% 20%;
-    text-align: center;
 }
-
 .blogpost-layout p{
     padding: 5% 10%;
 }
-
 #bloglist {
     padding:  2% 35% 5%;
     background-color:#E1E1E1;
 }
-
 .aboutImage {
     width: 30%;
     height: 40%;
-    float: left;
-    margin-right: 30px;
 }
-
 .aboutSection {
     padding: 3% 10% 3% 10%;
 }
-
 .divider {
     padding: 2%;
     clear: both;
 }
-
 .aboutSection p{
     font-size: 1.4em;
     font-family: Titillium Web;
 }
-
 .aboutSection ul{
     list-style-type: none;
-    text-align: center;
     padding-bottom: 1%;
 }
-
 .aboutSection li{
     display: inline;
     padding: 2%;
 }
-
-.aboutSection h4{
-    text-align: center;
-}
-
 .projects .container{
     padding-top: 6%;
     padding-bottom: 5%;
 }
-
-.projects h2{
-    text-align: center;
-}
-
 .projects .card{
     height: 400px;
-}
-
-.projects .row{
-    padding-top: 3%;
 }
