@@ -10,12 +10,7 @@
     font-size: 2.6rem;
     font-family: Ubuntu;
 }
-b {
-    font-family: 'Titillium Web', sans-serif;
-}
 .container-fluid img{
-    margin-left: auto;
-    margin-right: auto;
     height: 90%;
     width: 90%;
     display: block;
@@ -33,14 +28,6 @@ b {
 }
 .card-text{
     font-family: Montserrat;
-}
-/* footer and icons home page */
-footer{
-    padding:1% 15%;
-    background-color:#505050;
-    position: relative;
-    height: 200px;
-    clear: both;
 }
 .social-icons:hover{
     color:lightgrey;
@@ -73,6 +60,7 @@ h2, h3, h4{
     padding:  2% 35% 5%;
     background-color:#E1E1E1;
 }
+/* About page styling */
 .aboutImage {
     width: 30%;
     height: 40%;
@@ -88,18 +76,13 @@ h2, h3, h4{
     font-size: 1.4em;
     font-family: Titillium Web;
 }
-.aboutSection ul{
-    list-style-type: none;
-    padding-bottom: 1%;
-}
-.aboutSection li{
-    display: inline;
-    padding: 2%;
-}
 .projects .container{
     padding-top: 6%;
     padding-bottom: 5%;
 }
 .projects .card{
-    height: 400px;
+     height: 400px;
+}
+b {
+    font-family: 'Titillium Web', sans-serif;
 }
