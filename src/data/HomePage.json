@@ -1,0 +1,71 @@
+[
+    {
+        "listings": [
+            {
+                "title": "October 9, 2020",
+                "info": "Seventh blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "October 2, 2020",
+                "info": "Sixth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "September 24, 2020",
+                "info": "Fifth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "September 18, 2020",
+                "info": "Fourth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "September 11, 2020",
+                "info": "Third blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "September 4, 2020",
+                "info": "Second blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "August 28, 2020",
+                "info": "First blog post for the Awesome Inc. bootcamp"
+            }
+        ],
+        "blogPost": [
+            {
+                "title": "October 9, 2020",
+                "secondaryTitle": "Bootcamp Week 3: Front End",
+                "page": "Three project ideas I have are an online store, online database for something, and online user managment system. I think JavaScript is harder to use in that you have more to learn in methods. But it is eaiser to use then other langauges as it is not as structured. I am excited to learn about node and just other methods. I think the MVC design pattern is cool and is something I need to incorporate into my pseudocode. Singleton design pattern is another type design pattern."
+            },
+            {
+                "title": "October 2, 2020",
+                "secondaryTitle": "Bootcamp Week 2: Front End",
+                "page": "The second week of in person bootcamp is in the books and it went well. One thing that was very helpful was the projects tab in github that helped me understand the development process a bit more. Now to the questions, I think to have good code you have to make code that is readable and reusable. Being a good developer is making good code and having good communication. I think programmers hate debugging because it can be very stressful. This week I was able to start the tic tac toe project and realized that I am going to fast when I do development. After the one on one with Justin and Ian I learned I need to slow down and pseudocode more and think out my process more. I also need to expand my toolbox so I can be more efficent when I code. So next week I am going to slow down and try not to write a single piece of code for the calculator project next Monday and just focus on pseudocode."
+            },
+            {
+                "title": "September 24, 2020",
+                "secondaryTitle": "Bootcamp Week 1: Front End",
+                "page": "The first week of in-person boot camp started this week and I had a blast. I am in Ian’s classroom and is a great resource for any questions I have. I also have 3 other great classmates Rachel, Duncan, and Chandler, as well as Becky on Zoom. They are all great help as well and, this week Chandler helped me figure out the issue I had with refactoring the bouncing balls project. I think the main thing that held me back was having things misspelled, there were multiple times where my code was right in theory, but I had spelt “navbar” like “nvabar” or something similar. There were other issues like me dwelling on problems and taking long amounts of time to dissect those. But overall I think I made good progress this week. When it comes to what I hope to learn more about with Javascript is Data Structures. I know from previous experience just how strong some Data Structures can be and knowing how to harness can make your life easier. As for Bootstrap I hope to just use only bootstrap and no CSS at all. This week Ian talked about using something I believe called templates so you never have to use CSS. I am excited to learn about that."
+            },
+            {
+                "title": "September 18, 2020",
+                "secondaryTitle": "Bootcamp Week 4: Prework",
+                "page": "The last week of prework is over and there is a lot to reflect on. We went over Agile development which makes sense but does seem tedious. We also went over HTML, CSS, and Javascript. I liked all these subjects but did find HTML to get tedious at times. CSS also was fine but debugging it was a large task sometimes. Finally Javascript was just like any programming language when you are learning the syntax and I found myself banging my head against a keyboard stuck on issues multiple times. I think going through prework I found that Ian and Justin were both excellent instructors and are reliable to ask help from. I think the only thing that hindered my progress was my own incompetence at times, and think there were times where I could ask for help when I didn't. Finally, I overcame challenges by trying to break down the problem and take it one step at a time. Most of my challenges were debugging issues."
+            },
+            {
+                "title": "September 11, 2020",
+                "secondaryTitle": "Bootcamp Week 3: Prework",
+                "page": "Third week of prework and we finally started with some javascript. This week has probably been my favorite so far. This week we made a splash page and a silly story generator. We also updated all of our blogs, I added an about and project menu option. For the about section of the site I fill it out with a short paragraph about me and some links to twitter, linkedin, and github. The projects tab is much more barren only having a placeholder for future projects we do in the bootcamp. All of this made me realize I should probably start refactoring process soon as my code is not the cleanest. Now answering the questions for this week. I think the role that the html, css, and javascript play is vital to the frontend experience the users interact with. Html lets you put all of the content on the page. CSS lets you make it look good. Javascript finally makes it responsive. Each of these rely on the other to make a fully function and in my opinion proper website. Now, on the topic of objects I do not really know what objects my blog incorporates. It has some functionality such as being responsive and a navigation bar. But besides that I don't really know what objects would be."
+            },
+            {
+                "title": "September 4, 2020",
+                "secondaryTitle": "Bootcamp Week 2: Prework",
+                "page": "Second week of pre-work is coming to a close and we did some more git work. As well as some html and css work. We learned about pseudocode and took a deep dive into it. I used pseudocode in the past to just lay out ideas and to explain what a peice of code is doing. But going forward I am going to put what we learned into practice. It makes so much more sense to layout pseudocode in how the code is going to be structured instead of just ideas. The advanced psuedocode project definitely helped me realize that. I am still struggling on having a steady schedule. Right now I am only getting roughly 5 hours of sleep a night which is something I need to fix. But besides that, I am exicted to get into next week of pre-work as I already looked and saw we are starting javascript. I really enjoy coding so I can't wait for next week. I have been doing hackerrank and a few codewars katas to prepare. Before next week I plan on at least doing 40+ katas on codewars so I feel comfortable going into week 3 of pre-work."
+            },
+            {
+                "title": "August 28, 2020",
+                "secondaryTitle": "Bootcamp Week 1: Prework",
+                "page": "My first week of this bootcamp has not gone as I expected. There was a large amount of information that needed to be unpacked in the onboarding section. I didn't expect it to take me as long as it did. I also did not think we would get into git and terminal use, since I thought we would jump straight into HTML and CSS. However, this was extremely valuable for me since I have not had much experience in git. I learned how to implement git into my daily programming routine, improving my workflow. My only struggle is having to wake up at 6 a.m. every day to take my daughter to daycare. Besides that, the coding has gone smoothly ­– especially when I am able to get in the zone. I am kind of excited to get the prework over with and start meeting up with everyone and getting to know everyone better. I am also excited to start diving into other languages and libraries like Javascript, React, PHP, and SQL."
+            }
+        ]
+    }
+]
