@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Projects",
+        "cards": [
+            {
+                "cardTitle": "Digital Clock",
+                "cardContent": "Digital Clock that shows current time in 12-hour format. Using html and css to display the content. Then uses javascripts functions , Date and setInterval to get the time and display it.",
+                "url": "https://skylerkk.github.io/digital-clock/"
+            },
+            {
+                "cardTitle": "Countdown Timer",
+                "cardContent": "Similar to Digital Clcok project. But instead of just displaying time it does a countdown depending on what inputs you give it. Has same format as the Digital Clock. Only displays the timer when you click the Start Timer button and also hides the form that gets your input. When the timer ends it displays Time's Up!.",
+                "url": "https://skylerkk.github.io/countdown-timer/"
+            },
+            {
+                "cardTitle": "Campaign Components",
+                "cardContent": "A site that looks to use as little CSS as possible",
+                "url": "https://skylerkk.github.io/Campaign-Components/"
+            },
+            {
+                "cardTitle": "Bouncing Balls",
+                "cardContent": "A game where there is an evil circle that on contact with a ball will eat it. I changed it to a personal project and made it more of a game with 2 player functionality and alien theme.",
+                "url": "https://skylerkk.github.io/bouncing-balls/"
+            },
+            {
+                "cardTitle": "Mind Reader",
+                "cardContent": "Webpage that uses states to go through each page of a mind game",
+                "url": "https://skylerkk.github.io/Mind-Reader/"
+            },
+            {
+                "cardTitle": "sync Weather App",
+                "cardContent": "Just a weather app using openweather API.",
+                "url": "https://skylerkk.github.io/Async-Weather-App/"
+            }
+        ]
+    }
+]
