@@ -16,6 +16,7 @@ class App extends React.Component {
     }
 
     setPage(newPageNum) {
+        console.log(newPageNum)
         this.setState({ currentPage: newPageNum })
     }
 
@@ -32,12 +33,12 @@ class App extends React.Component {
     }
 
     componentDidUpdate() {
-       console.log(this.state.currentPage)
+        window.localStorage.setItem('currentPage', this.state.currentPage);
     }
 
     render() {
         return (
-            <div className='App' >
+            <div >
                 <Navbar
                     pages={this.pages}
                     currentPage={this.state.currentPage}

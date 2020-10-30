@@ -2,6 +2,14 @@
     {
         "listings": [
             {
+                "title": "October 23, 2020",
+                "info": "Ninth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "October 16, 2020",
+                "info": "Eighth blog post for the Awesome Inc. bootcamp"
+            },
+            {
                 "title": "October 9, 2020",
                 "info": "Seventh blog post for the Awesome Inc. bootcamp"
             },
@@ -31,6 +39,16 @@
             }
         ],
         "blogPost": [
+            {
+                "title": "October 23, 2020",
+                "secondaryTitle": "Bootcamp Week 5: Front End",
+                "page" : "I don't think CLIs are scary but can be confusing. CLIs can be used for a wide range of things. Many of which I don't know about. I think if I built a CLI it would be to test some application I made. Not that it is really a framework but methods like map and forEach make doing certain tasks very simple. Any program where you have to think about high abstraction level code frameworks are useful. I feel great now in comparison to last week. I feel like I understand more stuff about react."
+            },
+            {
+                "title": "October 16, 2020",
+                "secondaryTitle": "Bootcamp Week 4: Front End",
+                "page" : "I think Libraies can be hard since you have to learn more syntax. But it can save you countless amount of time in some cases so they seem useful. I am interested in learning about any framework that helps save time on typing. I would like to learn more about Gulp since one of my friends told me about it."
+            },
             {
                 "title": "October 9, 2020",
                 "secondaryTitle": "Bootcamp Week 3: Front End",
