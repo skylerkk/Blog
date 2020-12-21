@@ -2,6 +2,34 @@
     {
         "listings": [
             {
+                "title": "Decemeber 11, 2020",
+                "info": "Sixthteenth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "Decemeber 4, 2020",
+                "info": "Fifthteenth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "November 27, 2020",
+                "info": "Fourteenth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "November 20, 2020",
+                "info": "Thirteenth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "November 13, 2020",
+                "info": "Twelfth blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "November 6, 2020",
+                "info": "Eleventh blog post for the Awesome Inc. bootcamp"
+            },
+            {
+                "title": "October 30, 2020",
+                "info": "Tenth blog post for the Awesome Inc. bootcamp"
+            },
+            {
                 "title": "October 23, 2020",
                 "info": "Ninth blog post for the Awesome Inc. bootcamp"
             },
@@ -39,6 +67,41 @@
             }
         ],
         "blogPost": [
+            {
+                "title": "Decemeber 11, 2020",
+                "secondaryTitle": "Bootcamp Week 4: Full Stack",
+                "page" : "My expereince throughout the bootcamp was great. I made some great friends and was able to learn new languages and concepts quickly. I think I have grown the most in my use of bootstrap as before I would never do any styling at all. But since we learned bootstrap I have been using it non-stop and made my apps look far better because of it. In the end I am happy I attended it and am excited for what is next!"
+            },
+            {
+                "title": "Decemeber 4, 2020",
+                "secondaryTitle": "Bootcamp Week 3: Full Stack",
+                "page" : "I have progressed very well on the front end. I understand everything I am doing there with the new hooks and react router. But on the backend I am still struggling with the user authentication stuff. I think I am very close but I just keep getting stuck on things. I have started to see the benifit of Agile and how it is supposed to work and it has made my progress much smoother. I have not pseudo coded in a very long time now. I think Agile has taken the time that I would normally do pseudo code."
+            },
+            {
+                "title": "November 27, 2020",
+                "secondaryTitle": "Bootcamp Week 2: Full Stack",
+                "page" : "I am very overwhelmed by the final project. It seems like a hug task and I do not know how to tackle it. I think I am going to struggle with the backend of the final proejct and do very well on the front end. I think I don’t fully understand Agile yet but I am trying to comprehend it more. I think it does take up time and I do think large scale projects can be completed without it."
+            },
+            {
+                "title": "November 20, 2020",
+                "secondaryTitle": "Bootcamp Week 1: Full Stack",
+                "page" : "I am starting to understand how both the backend and the frontend come together. I love States and Effects in react and I use to absolutely hate it. I still am having the same ideas for my final project. The new hooks and react router are both insanely useful. I have currently not applied to any jobs but I am actively looking around. "
+            },
+            {
+                "title": "November 13, 2020",
+                "secondaryTitle": "Bootcamp Week 2: Back End",
+                "page" : "I think we have all come very far recently. I plan on working on more back-end especially MySQL since I tend to have trouble grapsing it. I think I have the hardest time grapsing MySQL because it is so simple in its syntax that it confuses me. My gaps really only exist on the back-end with laravel and MySQL I am hoping to close that gap."
+            },
+            {
+                "title": "November 6, 2020",
+                "secondaryTitle": "Bootcamp Week 1: Back End",
+                "page" : "I was not aware of $_POST which was very useful this week. How to make it easier which I think we are learning with Laravel. I enjoy learning new languages besdies having to use SQL I was happy with this week. I think I would of been fine to start with PHP over JS but it would be harder to display things. I cannot think of anything that is completely better with PHP instead of JS but a mix of both would be good for some of my projects."
+            },
+            {
+                "title": "October 30, 2020",
+                "secondaryTitle": "Bootcamp Week 6: Front End",
+                "page" : "I like how you can use NPM to install plugins that makes coding easier. Hooks are insanely useful and easy to use. Running everything off of one page is very cool. The thing I am struggling with the most is using the pluggins that we install consistently. It made me think instead of having multiple pages to just use one and break it off in compoenents. It also has made me want to use simplier designs. Getting the hooks project to work and understanding it. They are the same."
+            },
             {
                 "title": "October 23, 2020",
                 "secondaryTitle": "Bootcamp Week 5: Front End",
