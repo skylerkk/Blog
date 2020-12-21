@@ -28,9 +28,44 @@
                 "url": "https://skylerkk.github.io/Mind-Reader/"
             },
             {
-                "cardTitle": "sync Weather App",
+                "cardTitle": "Async Weather App",
                 "cardContent": "Just a weather app using openweather API.",
                 "url": "https://skylerkk.github.io/Async-Weather-App/"
+            },
+            {
+                "cardTitle": "Tic Tac Toe",
+                "cardContent": "Tic Tac Toe Game",
+                "url": "https://skylerkk.github.io/Tic-Tac-Toe/"
+            },
+            {
+                "cardTitle": "Calculator",
+                "cardContent": "Simple Calculator App",
+                "url": "https://skylerkk.github.io/Calculator/"
+            },
+            {
+                "cardTitle": "To Do List",
+                "cardContent": "First React App, a simple To Do List",
+                "url": "https://to-do-list-69968.web.app/"
+            },
+            {
+                "cardTitle": "React Resturant",
+                "cardContent": "Another React App that uses an API",
+                "url": "https://react-restaurant-7d8bc.web.app/"
+            },
+            {
+                "cardTitle": "Fishing Hooks",
+                "cardContent": "First React App that uses Hooks",
+                "url": "https://fishing-hooks-38a4c.web.app/"
+            },
+            {
+                "cardTitle": "Puzzle Slider",
+                "cardContent": "Puzzle slider game made in React",
+                "url": "https://puzzle-slider-bce37.web.app/"
+            },
+            {
+                "cardTitle": "Final Project!",
+                "cardContent": "TableTop RPG Character Sheet Creator!",
+                "url": "https://ttrpg-character-sheet-creator.web.app/"
             }
         ]
     }
